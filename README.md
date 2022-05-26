@@ -44,7 +44,7 @@ contact-form.php : this file for configuration and information about the plugin.
 dash_Plugin.php: this file is dashboard where display all messages.
 
 formDesign.php : this file is design of the contact form, how it diplay
-![3](https://user-images.githubusercontent.com/81519679/170465455-f140e601-0990-4ab5-a7d4-e23e3631da60.PNG)
+![3](https://user-images.githubusercontent.com/81519679/170469754-9fa03258-acb3-4da1-9c1b-cfea09f9f512.PNG)
 
 
 Setting.php : this file to configure which fields to leave and which to clear from the form.
